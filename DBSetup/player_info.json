@@ -1,0 +1,5551 @@
+[{
+    "Full Name": "Marvin Harrison Jr.",
+    "Display": "M.Harrison",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "ARI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Michael Wilson",
+    "Display": "M.Wilson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "ARI",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Greg Dortch",
+    "Display": "G.Dortch",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "ARI",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Trey Mcbride",
+    "Display": "T.Mcbride",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ARZ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Elijah Higgins",
+    "Display": "E.Higgins",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ARZ",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tip Reiman",
+    "Display": "T.Reiman",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ARZ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Travis Vokolek",
+    "Display": "T.Vokolek",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ARZ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Blake Whiteheart",
+    "Display": "B.Whiteheart",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ARZ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kyler Murray",
+    "Display": "K.Murray",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "ARZ",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Desmond Ridder",
+    "Display": "D.Ridder",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "ARZ",
+    "Teams_List": [
+        "ATL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Clayton Tune",
+    "Display": "C.Tune",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "ARZ",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "James Conner",
+    "Display": "J.Conner",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ARZ",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Trey Benson",
+    "Display": "T.Benson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ARZ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Emari Demercado",
+    "Display": "E.Demercado",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ARZ",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Deejay Dallas",
+    "Display": "D.Dallas",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ARZ",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tony Jones",
+    "Display": "T.Jones",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ARZ",
+    "Teams_List": [
+        "ARI",
+        "NO",
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kyle Pitts",
+    "Display": "K.Pitts",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "ATL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Charlie Woerner",
+    "Display": "C.Woerner",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "SF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ross Dwelley",
+    "Display": "R.Dwelley",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "SF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "John Fitzpatrick",
+    "Display": "J.Fitzpatrick",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ATL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Austin Stogner",
+    "Display": "A.Stogner",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "ATL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kirk Cousins",
+    "Display": "K.Cousins",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Michael Penix jr.",
+    "Display": "M.Penix",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "ATL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Taylor Heinicke",
+    "Display": "T.Heinicke",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "ATL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "John Paddock",
+    "Display": "J.Paddock",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "ATL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Bijan Robinson",
+    "Display": "B.Robinson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "ATL",
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyler Allgeier",
+    "Display": "T.Allgeier",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "ATL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Avery Williams",
+    "Display": "A.Williams",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ATL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jase Mcclellan",
+    "Display": "J.Mcclellan",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ATL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Carlos Washington jr.",
+    "Display": "C.Washington",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "ATL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Drake London",
+    "Display": "D.London",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "ATL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Darnell Mooney",
+    "Display": "D.Mooney",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rondale Moore",
+    "Display": "R.Moore",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "ATL",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mark Andrews",
+    "Display": "M.Andrews",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Isaiah Likely",
+    "Display": "I.Likely",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Charlie Kolar",
+    "Display": "C.Kolar",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mike Rigerman",
+    "Display": "M.Rigerman",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Riley Sharp",
+    "Display": "R.Sharp",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Lamar Jackson",
+    "Display": "L.Jackson",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Josh Johnson",
+    "Display": "J.Johnson",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "NO",
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Devin Leary",
+    "Display": "D.Leary",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "BAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Emory Jones",
+    "Display": "E.Jones",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "BAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Derrick Henry",
+    "Display": "D.Henry",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "TEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Justice Hill",
+    "Display": "J.Hill",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "MIA",
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Keaton Mitchell",
+    "Display": "K.Mitchell",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rasheen Ali",
+    "Display": "R.Ali",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chris Collier",
+    "Display": "C.Collier",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zay Flowers",
+    "Display": "Z.Flowers",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rashod Bateman",
+    "Display": "R.Bateman",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nelson Agholor",
+    "Display": "N.Agholor",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "BAL",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Keon Coleman",
+    "Display": "K.Coleman",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "BUF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Khalil Shakir",
+    "Display": "K.Shakir",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Curtis Samuel",
+    "Display": "C.Samuel",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "James Cook",
+    "Display": "J.Cook",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ray Davis",
+    "Display": "R.Davis",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BUF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ty Johnson",
+    "Display": "T.Johnson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "LA",
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Darrynton Evans",
+    "Display": "D.Evans",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "CHI",
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Frank Gore jr.",
+    "Display": "F.Gore",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "BUF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Josh Allen",
+    "Display": "J.Allen",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mitchell Trubisky",
+    "Display": "M.Trubisky",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ben Dinucci",
+    "Display": "B.Dinucci",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "BUF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dalton Kincaid",
+    "Display": "D.Kincaid",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dawson Knox",
+    "Display": "D.Knox",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Quintin Morris",
+    "Display": "Q.Morris",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BUF",
+    "Teams_List": [
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zach Davidson",
+    "Display": "Z.Davidson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BUF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tre' Mckitty",
+    "Display": "T.Mckitty",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "BUF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ian Thomas",
+    "Display": "I.Thomas",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tommy Tremble",
+    "Display": "T.Tremble",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ja'tavion Sanders",
+    "Display": "J.Sanders",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jordan Matthews",
+    "Display": "J.Matthews",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Feleipe Franks",
+    "Display": "F.Franks",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Diontae Johnson",
+    "Display": "D.Johnson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "PIT",
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Adam Thielen",
+    "Display": "A.Thielen",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Xavier Legette",
+    "Display": "X.Legette",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Bryce Young",
+    "Display": "B.Young",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Andy Dalton",
+    "Display": "A.Dalton",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jack Plummer",
+    "Display": "J.Plummer",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jake Luton",
+    "Display": "J.Luton",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chuba Hubbard",
+    "Display": "C.Hubbard",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jonathon Brooks",
+    "Display": "J.Brooks",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Miles Sanders",
+    "Display": "M.Sanders",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Raheem Blackshear",
+    "Display": "R.Blackshear",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mike Boone",
+    "Display": "M.Boone",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CAR",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Caleb Williams",
+    "Display": "C.Williams",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyson Bagent",
+    "Display": "T.Bagent",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brett Rypien",
+    "Display": "B.Rypien",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Austin Reed",
+    "Display": "A.Reed",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Cole Kmet",
+    "Display": "C.Kmet",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Gerald Everett",
+    "Display": "G.Everett",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Marcedes Lewis",
+    "Display": "M.Lewis",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Stephen Carlson",
+    "Display": "S.Carlson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tommy Sweeney",
+    "Display": "T.Sweeney",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "DJ Moore",
+    "Display": "D.Moore",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "CHI",
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Keenan Allen",
+    "Display": "K.Allen",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rome Odunze",
+    "Display": "R.Odunze",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "D'andre Swift",
+    "Display": "D.Swift",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Khalil Herbert",
+    "Display": "K.Herbert",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Roschon Johnson",
+    "Display": "R.Johnson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Travis Homer",
+    "Display": "T.Homer",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CHI",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ian Wheeler",
+    "Display": "I.Wheeler",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Joe Burrow",
+    "Display": "J.Burrow",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jake Browning",
+    "Display": "J.Browning",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Logan Woodside",
+    "Display": "L.Woodside",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "ATL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rocky Lombardi",
+    "Display": "R.Lombardi",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CIN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zack Moss",
+    "Display": "Z.Moss",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chase Brown",
+    "Display": "C.Brown",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Trayveon Williams",
+    "Display": "T.Williams",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chris Evans",
+    "Display": "C.Evans",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Noah Cain",
+    "Display": "N.Cain",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CIN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mike Gesicki",
+    "Display": "M.Gesicki",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "NE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Drew Sample",
+    "Display": "D.Sample",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tanner Hudson",
+    "Display": "T.Hudson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Erick All jr.",
+    "Display": "E.All",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CIN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tanner Mclachlan",
+    "Display": "T.Mclachlan",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CIN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ja'Marr Chase",
+    "Display": "J.Chase",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tee Higgins",
+    "Display": "T.Higgins",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CIN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jermaine Burton",
+    "Display": "J.Burton",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CIN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Amari Cooper",
+    "Display": "A.Cooper",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jerry Jeudy",
+    "Display": "J.Jeudy",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Elijah Moore",
+    "Display": "E.Moore",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nick Chubb",
+    "Display": "N.Chubb",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jerome Ford",
+    "Display": "J.Ford",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Pierre Strong jr.",
+    "Display": "P.Strong",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "D'onta Foreman",
+    "Display": "D.Foreman",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nyheim Hines",
+    "Display": "N.Hines",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "CLE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Deshaun Watson",
+    "Display": "D.Watson",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jameis Winston",
+    "Display": "J.Winston",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "NO"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dorian Thompson-robinson",
+    "Display": "D.Thompson-robinson",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CLE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyler Huntley",
+    "Display": "T.Huntley",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "David Njoku",
+    "Display": "D.Njoku",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jordan Akins",
+    "Display": "J.Akins",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zaire Mitchell-paden",
+    "Display": "Z.Mitchell-paden",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CLE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Giovanni Ricci",
+    "Display": "G.Ricci",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CLE",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Treyton Welch",
+    "Display": "T.Welch",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "CLE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ezekiel Elliott",
+    "Display": "E.Elliott",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "NE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rico Dowdle",
+    "Display": "R.Dowdle",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Royce Freeman",
+    "Display": "R.Freeman",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Malik Davis",
+    "Display": "M.Davis",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Snoop Conner",
+    "Display": "S.Conner",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dak Prescott",
+    "Display": "D.Prescott",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Cooper Rush",
+    "Display": "C.Rush",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Trey Lance",
+    "Display": "T.Lance",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jake Ferguson",
+    "Display": "J.Ferguson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Luke Schoonmaker",
+    "Display": "L.Schoonmaker",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "John Stephens jr.",
+    "Display": "J.Stephens",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Peyton Hendershot",
+    "Display": "P.Hendershot",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Princeton Fant",
+    "Display": "P.Fant",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DAL",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "CeeDee Lamb",
+    "Display": "C.Lamb",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brandin Cooks",
+    "Display": "B.Cooks",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jalen Tolbert",
+    "Display": "J.Tolbert",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "DAL",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Javonte Williams",
+    "Display": "J.Williams",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "WAS",
+        "DEN",
+        "NO",
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jaleel Mclaughlin",
+    "Display": "J.Mclaughlin",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Audric Estime",
+    "Display": "A.Estime",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Samaje Perine",
+    "Display": "S.Perine",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Blake Watson",
+    "Display": "B.Watson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Adam Trautman",
+    "Display": "A.Trautman",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Greg Dulcich",
+    "Display": "G.Dulcich",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Lucas Krull",
+    "Display": "L.Krull",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nate Adkins",
+    "Display": "N.Adkins",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Thomas Yassmin",
+    "Display": "T.Yassmin",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Courtland Sutton",
+    "Display": "C.Sutton",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Josh Reynolds",
+    "Display": "J.Reynolds",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Marvin Mims Jr.",
+    "Display": "M.Mims",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Bo Nix",
+    "Display": "B.Nix",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jarrett Stidham",
+    "Display": "J.Stidham",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zach Wilson",
+    "Display": "Z.Wilson",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DEN",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Sam Laporta",
+    "Display": "S.Laporta",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DET",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brock Wright",
+    "Display": "B.Wright",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DET",
+    "Teams_List": [
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Shane Zylstra",
+    "Display": "S.Zylstra",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DET",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "James Mitchell",
+    "Display": "J.Mitchell",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DET",
+    "Teams_List": [
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Parker Hesse",
+    "Display": "P.Hesse",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "DET",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jahmyr Gibbs",
+    "Display": "J.Gibbs",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DET",
+    "Teams_List": [
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "David Montgomery",
+    "Display": "D.Montgomery",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DET",
+    "Teams_List": [
+        "IND",
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Craig Reynolds",
+    "Display": "C.Reynolds",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DET",
+    "Teams_List": [
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Sione Vaki",
+    "Display": "S.Vaki",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DET",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zonovan Knight",
+    "Display": "Z.Knight",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "DET",
+    "Teams_List": [
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Amon-Ra St.Brown",
+    "Display": "A.St.Brown",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "DET",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jameson Williams",
+    "Display": "J.Williams",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "DET",
+    "Teams_List": [
+        "WAS",
+        "DEN",
+        "NO",
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kalif Raymond",
+    "Display": "K.Raymond",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "DET",
+    "Teams_List": [
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jared Goff",
+    "Display": "J.Goff",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DET",
+    "Teams_List": [
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nate Sudfeld",
+    "Display": "N.Sudfeld",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DET",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Hendon Hooker",
+    "Display": "H.Hooker",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DET",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jake Fromm",
+    "Display": "J.Fromm",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "DET",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jayden Reed",
+    "Display": "J.Reed",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Romeo Doubs",
+    "Display": "R.Doubs",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Christian Watson",
+    "Display": "C.Watson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jordan Love",
+    "Display": "J.Love",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Sean Clifford",
+    "Display": "S.Clifford",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Michael Pratt",
+    "Display": "M.Pratt",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "GB",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Josh Jacobs",
+    "Display": "J.Jacobs",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Aj Dillon",
+    "Display": "A.Dillon",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Marshawn Lloyd",
+    "Display": "M.Lloyd",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "GB",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Emanuel Wilson",
+    "Display": "E.Wilson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jarveon Howard",
+    "Display": "J.Howard",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "GB",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Luke Musgrave",
+    "Display": "L.Musgrave",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tucker Kraft",
+    "Display": "T.Kraft",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ben Sims",
+    "Display": "B.Sims",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyler Davis",
+    "Display": "T.Davis",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "GB",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Joel Wilson",
+    "Display": "J.Wilson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "GB",
+    "Teams_List": [
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Joe Mixon",
+    "Display": "J.Mixon",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dameon Pierce",
+    "Display": "D.Pierce",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dare Ogunbowale",
+    "Display": "D.Ogunbowale",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jawhar Jordan",
+    "Display": "J.Jordan",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "HOU",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "J.j. Taylor",
+    "Display": "J.Taylor",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dalton Schultz",
+    "Display": "D.Schultz",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brevin Jordan",
+    "Display": "B.Jordan",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Cade Stover",
+    "Display": "C.Stover",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "HOU",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Teagan Quitoriano",
+    "Display": "T.Quitoriano",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dalton Keene",
+    "Display": "D.Keene",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "HOU",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nico Collins",
+    "Display": "N.Collins",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Stefon Diggs",
+    "Display": "S.Diggs",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tank Dell",
+    "Display": "T.Dell",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "C.j. Stroud",
+    "Display": "C.Stroud",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Davis Mills",
+    "Display": "D.Mills",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Case Keenum",
+    "Display": "C.Keenum",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tim Boyle",
+    "Display": "T.Boyle",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "HOU",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Michael Pittman Jr.",
+    "Display": "M.Pittman",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "IND",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Josh Downs",
+    "Display": "J.Downs",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "IND",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Adonai Mitchell",
+    "Display": "A.Mitchell",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "IND",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jonathan Taylor",
+    "Display": "J.Taylor",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "IND",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Trey Sermon",
+    "Display": "T.Sermon",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "IND",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyler Goodson",
+    "Display": "T.Goodson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "IND",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Evan Hull",
+    "Display": "E.Hull",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "IND",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zavier Scott",
+    "Display": "Z.Scott",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "IND",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Anthony Richardson",
+    "Display": "A.Richardson",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "IND",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Joe Flacco",
+    "Display": "J.Flacco",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "IND",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Sam Ehlinger",
+    "Display": "S.Ehlinger",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "IND",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kedon Slovis",
+    "Display": "K.Slovis",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "IND",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jason Bean",
+    "Display": "J.Bean",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "IND",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kylen Granson",
+    "Display": "K.Granson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "IND",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mo Alie-cox",
+    "Display": "M.Alie-cox",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "IND",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Drew Ogletree",
+    "Display": "D.Ogletree",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "IND",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jelani Woods",
+    "Display": "J.Woods",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "IND",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Eric Tomlinson",
+    "Display": "E.Tomlinson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "IND",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Christian Kirk",
+    "Display": "C.Kirk",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Gabe Davis",
+    "Display": "G.Davis",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brian Thomas Jr.",
+    "Display": "B.Thomas",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "JAX",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Evan Engram",
+    "Display": "E.Engram",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Luke Farrell",
+    "Display": "L.Farrell",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brenton Strange",
+    "Display": "B.Strange",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Josiah Deguara",
+    "Display": "J.Deguara",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Shawn Bowman",
+    "Display": "S.Bowman",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "JAX",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Trevor Lawrence",
+    "Display": "T.Lawrence",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mac Jones",
+    "Display": "M.Jones",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "NE",
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "C.j. Beathard",
+    "Display": "C.Beathard",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Travis Etienne jr.",
+    "Display": "T.Etienne",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tank Bigsby",
+    "Display": "T.Bigsby",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "D'ernest Johnson",
+    "Display": "D.Johnson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "JAX",
+    "Teams_List": [
+        "PIT",
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Keilan Robinson",
+    "Display": "K.Robinson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "JAX",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jalen Jackson",
+    "Display": "J.Jackson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "JAX",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Travis Kelce",
+    "Display": "T.Kelce",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "KC",
+    "Teams_List": [
+        "KC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Noah Gray",
+    "Display": "N.Gray",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "KC",
+    "Teams_List": [
+        "KC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jared Wiley",
+    "Display": "J.Wiley",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "KC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Irv Smith",
+    "Display": "I.Smith",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "KC",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Baylor Cupp",
+    "Display": "B.Cupp",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "KC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Patrick Mahomes",
+    "Display": "P.Mahomes",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "KC",
+    "Teams_List": [
+        "KC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Carson Wentz",
+    "Display": "C.Wentz",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "KC",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chris Oladokun",
+    "Display": "C.Oladokun",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "KC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ian Book",
+    "Display": "I.Book",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "KC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Isiah Pacheco",
+    "Display": "I.Pacheco",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "KC",
+    "Teams_List": [
+        "KC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Deneric Prince",
+    "Display": "D.Prince",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "KC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Clyde Edwards-helaire",
+    "Display": "C.Edwards-helaire",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "KC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Keaontay Ingram",
+    "Display": "K.Ingram",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "KC",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Louis Rees-zammit",
+    "Display": "L.Rees-zammit",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "KC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Marquise Brown",
+    "Display": "M.Brown",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "KC",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Xavier Worthy",
+    "Display": "X.Worthy",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "KC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Justin Watson",
+    "Display": "J.Watson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "KC",
+    "Teams_List": [
+        "KC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Gus Edwards",
+    "Display": "G.Edwards",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "J.k. Dobbins",
+    "Display": "J.Dobbins",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jaret Patterson",
+    "Display": "J.Patterson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kimani Vidal",
+    "Display": "K.Vidal",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Isaiah Spiller",
+    "Display": "I.Spiller",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Justin Herbert",
+    "Display": "J.Herbert",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Easton Stick",
+    "Display": "E.Stick",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Max Duggan",
+    "Display": "M.Duggan",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LAC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Luis Perez",
+    "Display": "L.Perez",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LAC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Joshua Palmer",
+    "Display": "J.Palmer",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ladd McConkey",
+    "Display": "L.McConkey",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "LAC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Quentin Johnston",
+    "Display": "Q.Johnston",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Will Dissly",
+    "Display": "W.Dissly",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Hayden Hurst",
+    "Display": "H.Hurst",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "CAR"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Donald Parham jr.",
+    "Display": "D.Parham",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Stone Smartt",
+    "Display": "S.Smartt",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAC",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zach Heins",
+    "Display": "Z.Heins",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAC",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kyren Williams",
+    "Display": "K.Williams",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Blake Corum",
+    "Display": "B.Corum",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Boston Scott",
+    "Display": "B.Scott",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ronnie Rivers",
+    "Display": "R.Rivers",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zach Evans",
+    "Display": "Z.Evans",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyler Higbee",
+    "Display": "T.Higbee",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Colby Parkinson",
+    "Display": "C.Parkinson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Davis Allen",
+    "Display": "D.Allen",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Hunter Long",
+    "Display": "H.Long",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nikola Kalinic",
+    "Display": "N.Kalinic",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Cooper Kupp",
+    "Display": "C.Kupp",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Puka Nacua",
+    "Display": "P.Nacua",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Demarcus Robinson",
+    "Display": "D.Robinson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Matthew Stafford",
+    "Display": "M.Stafford",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LAR",
+    "Teams_List": [
+        "LA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Stetson Bennett",
+    "Display": "S.Bennett",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dresser Winn",
+    "Display": "D.Winn",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LAR",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Davante Adams",
+    "Display": "D.Adams",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jakobi Meyers",
+    "Display": "J.Meyers",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tre Tucker",
+    "Display": "T.Tucker",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brock Bowers",
+    "Display": "B.Bowers",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LV",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Michael Mayer",
+    "Display": "M.Mayer",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Harrison Bryant",
+    "Display": "H.Bryant",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zach Gentry",
+    "Display": "Z.Gentry",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LV",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Cole Fotheringham",
+    "Display": "C.Fotheringham",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Gardner Minshew ii",
+    "Display": "G.Minshew",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "IND"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Aidan O'connell",
+    "Display": "A.O'connell",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LV",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Anthony Brown jr.",
+    "Display": "A.Brown",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nathan Peterman",
+    "Display": "N.Peterman",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Carter Bradley",
+    "Display": "C.Bradley",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "LV",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zamir White",
+    "Display": "Z.White",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Alexander Mattison",
+    "Display": "A.Mattison",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ameer Abdullah",
+    "Display": "A.Abdullah",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LV",
+    "Teams_List": [
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dylan Laube",
+    "Display": "D.Laube",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LV",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brittain Brown",
+    "Display": "B.Brown",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "LV",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Durham Smythe",
+    "Display": "D.Smythe",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jonnu Smith",
+    "Display": "J.Smith",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "ATL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Julian Hill",
+    "Display": "J.Hill",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "MIA",
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jody Fortson jr.",
+    "Display": "J.Fortson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tanner Conner",
+    "Display": "T.Conner",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Raheem Mostert",
+    "Display": "R.Mostert",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "De'von Achane",
+    "Display": "D.Achane",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jaylen Wright",
+    "Display": "J.Wright",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jeff Wilson jr.",
+    "Display": "J.Wilson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Salvon Ahmed",
+    "Display": "S.Ahmed",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyreek Hill",
+    "Display": "T.Hill",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "NO",
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jaylen Waddle",
+    "Display": "J.Waddle",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Odell Beckham Jr.",
+    "Display": "O.Beckham",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "BAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tua Tagovailoa",
+    "Display": "T.Tagovailoa",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mike White",
+    "Display": "M.White",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "MIA",
+    "Teams_List": [
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Skylar Thompson",
+    "Display": "S.Thompson",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "MIA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Justin Jefferson",
+    "Display": "J.Jefferson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jordan Addison",
+    "Display": "J.Addison",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brandon Powell",
+    "Display": "B.Powell",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Aaron Jones",
+    "Display": "A.Jones",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ty Chandler",
+    "Display": "T.Chandler",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kene Nwangwu",
+    "Display": "K.Nwangwu",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dewayne Mcbride",
+    "Display": "D.Mcbride",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Myles Gaskin",
+    "Display": "M.Gaskin",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "MIN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Sam Darnold",
+    "Display": "S.Darnold",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "SF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "J.j. Mccarthy",
+    "Display": "J.Mccarthy",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "MIN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nick Mullens",
+    "Display": "N.Mullens",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jaren Hall",
+    "Display": "J.Hall",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "T.j. Hockenson",
+    "Display": "T.Hockenson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Josh Oliver",
+    "Display": "J.Oliver",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Johnny Mundt",
+    "Display": "J.Mundt",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nick Muse",
+    "Display": "N.Muse",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIN",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Trey Knox",
+    "Display": "T.Knox",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "MIN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "K.J. Osborn",
+    "Display": "K.Osborn",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Demario Douglas",
+    "Display": "D.Douglas",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "NE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ja'Lynn Polk",
+    "Display": "J.Polk",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Hunter Henry",
+    "Display": "H.Henry",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "NE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Austin Hooper",
+    "Display": "A.Hooper",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jaheim Bell",
+    "Display": "J.Bell",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mitchell Wilcox",
+    "Display": "M.Wilcox",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "La'michael Pettway",
+    "Display": "L.Pettway",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jacoby Brissett",
+    "Display": "J.Brissett",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Drake Maye",
+    "Display": "D.Maye",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Joe Milton iii",
+    "Display": "J.Milton",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Bailey Zappe",
+    "Display": "B.Zappe",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "NE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rhamondre Stevenson",
+    "Display": "R.Stevenson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "NE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Antonio Gibson",
+    "Display": "A.Gibson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jamycal Hasty",
+    "Display": "J.Hasty",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kevin Harris",
+    "Display": "K.Harris",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NE",
+    "Teams_List": [
+        "NE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Terrell Jennings",
+    "Display": "T.Jennings",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NE",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chris Olave",
+    "Display": "C.Olave",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rashid Shaheed",
+    "Display": "R.Shaheed",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "A.T. Perry",
+    "Display": "A.Perry",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Juwan Johnson",
+    "Display": "J.Johnson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO",
+        "LV"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Foster Moreau",
+    "Display": "F.Moreau",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Taysom Hill",
+    "Display": "T.Hill",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO",
+        "MIA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Michael Jacobson",
+    "Display": "M.Jacobson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NO",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dallin Holker",
+    "Display": "D.Holker",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NO",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Derek Carr",
+    "Display": "D.Carr",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jake Haener",
+    "Display": "J.Haener",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NO",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Spencer Rattler",
+    "Display": "S.Rattler",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NO",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Alvin Kamara",
+    "Display": "A.Kamara",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jamaal Williams",
+    "Display": "J.Williams",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "WAS",
+        "DEN",
+        "NO",
+        "DET"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kendre Miller",
+    "Display": "K.Miller",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jordan Mims",
+    "Display": "J.Mims",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "NO"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "James Robinson",
+    "Display": "J.Robinson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NO",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Daniel Bellinger",
+    "Display": "D.Bellinger",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Theo Johnson",
+    "Display": "T.Johnson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "LA",
+        "BUF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chris Manhertz",
+    "Display": "C.Manhertz",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Lawrence Cager",
+    "Display": "L.Cager",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jack Stoll",
+    "Display": "J.Stoll",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Daniel Jones",
+    "Display": "D.Jones",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Drew Lock",
+    "Display": "D.Lock",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tommy Devito",
+    "Display": "T.Devito",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NYG",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Devin Singletary",
+    "Display": "D.Singletary",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyrone Tracy jr.",
+    "Display": "T.Tracy",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYG",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Eric Gray",
+    "Display": "E.Gray",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dante Miller",
+    "Display": "D.Miller",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYG",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Lorenzo Lingard",
+    "Display": "L.Lingard",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYG",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Malik Nabers",
+    "Display": "M.Nabers",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NYG",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Wan'Dale Robinson",
+    "Display": "W.Robinson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jalin Hyatt",
+    "Display": "J.Hyatt",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NYG",
+    "Teams_List": [
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyler Conklin",
+    "Display": "T.Conklin",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jeremy Ruckert",
+    "Display": "J.Ruckert",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kenny Yeboah",
+    "Display": "K.Yeboah",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zack Kuntz",
+    "Display": "Z.Kuntz",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYJ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Lincoln Sefcik",
+    "Display": "L.Sefcik",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "NYJ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Breece Hall",
+    "Display": "B.Hall",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Braelon Allen",
+    "Display": "B.Allen",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYJ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Isaiah Davis",
+    "Display": "I.Davis",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYJ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Israel Abanikanda",
+    "Display": "I.Abanikanda",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Xazavian Valladay",
+    "Display": "X.Valladay",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "NYJ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Aaron Rodgers",
+    "Display": "A.Rodgers",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "IND",
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyrod Taylor",
+    "Display": "T.Taylor",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "CHI",
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jordan Travis",
+    "Display": "J.Travis",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NYJ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Andrew Peasley",
+    "Display": "A.Peasley",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NYJ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Adrian Martinez",
+    "Display": "A.Martinez",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "NYJ",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Garrett Wilson",
+    "Display": "G.Wilson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mike Williams",
+    "Display": "M.Williams",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Xavier Gipson",
+    "Display": "X.Gipson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "NYJ",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Dallas Goedert",
+    "Display": "D.Goedert",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Grant Calcaterra",
+    "Display": "G.Calcaterra",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "C.j. Uzomah",
+    "Display": "C.Uzomah",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "NYJ"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Albert Okwuegbunam jr.",
+    "Display": "A.Okwuegbunam",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "E.j. Jenkins",
+    "Display": "E.Jenkins",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Saquon Barkley",
+    "Display": "S.Barkley",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kenneth Gainwell",
+    "Display": "K.Gainwell",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Will Shipley",
+    "Display": "W.Shipley",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyrion Davis-price",
+    "Display": "T.Davis-price",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kendall Milton",
+    "Display": "K.Milton",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jalen Hurts",
+    "Display": "J.Hurts",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kenny Pickett",
+    "Display": "K.Pickett",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tanner Mckee",
+    "Display": "T.Mckee",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "PHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Will Grier",
+    "Display": "W.Grier",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "PHI",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "A.J. Brown",
+    "Display": "A.Brown",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "DeVonta Smith",
+    "Display": "D.Smith",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "KC",
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Parris Campbell",
+    "Display": "P.Campbell",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "PHI",
+    "Teams_List": [
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "George Pickens",
+    "Display": "G.Pickens",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Roman Wilson",
+    "Display": "R.Wilson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Quez Watkins",
+    "Display": "Q.Watkins",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Pat Freiermuth",
+    "Display": "P.Freiermuth",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Darnell Washington",
+    "Display": "D.Washington",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Connor Heyward",
+    "Display": "C.Heyward",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mycole Pruitt",
+    "Display": "M.Pruitt",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "ATL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rodney Williams",
+    "Display": "R.Williams",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Najee Harris",
+    "Display": "N.Harris",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jaylen Warren",
+    "Display": "J.Warren",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Cordarrelle Patterson",
+    "Display": "C.Patterson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "ATL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "La'mical Perine",
+    "Display": "L.Perine",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "KC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Daijun Edwards",
+    "Display": "D.Edwards",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "PIT",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Russell Wilson",
+    "Display": "R.Wilson",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "DEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Justin Fields",
+    "Display": "J.Fields",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "CHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kyle Allen",
+    "Display": "K.Allen",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "PIT",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "John Plumlee",
+    "Display": "J.Plumlee",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "PIT",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Noah Fant",
+    "Display": "N.Fant",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Pharaoh Brown",
+    "Display": "P.Brown",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "NE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Aj Barner",
+    "Display": "A.Barner",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SEA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brady Russell",
+    "Display": "B.Russell",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SEA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyler Mabry",
+    "Display": "T.Mabry",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SEA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kenneth Walker iii",
+    "Display": "K.Walker",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zach Charbonnet",
+    "Display": "Z.Charbonnet",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kenny Mcintosh",
+    "Display": "K.Mcintosh",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SEA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "George Holani",
+    "Display": "G.Holani",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SEA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kobe Lewis",
+    "Display": "K.Lewis",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SEA",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "DK Metcalf",
+    "Display": "D.Metcalf",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyler Lockett",
+    "Display": "T.Lockett",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jaxon Smith-Njigba",
+    "Display": "J.Smith-Njigba",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Geno Smith",
+    "Display": "G.Smith",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "SEA"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Sam Howell",
+    "Display": "S.Howell",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Pj Walker",
+    "Display": "P.Walker",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "SEA",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Christian Mccaffrey",
+    "Display": "C.Mccaffrey",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Elijah Mitchell",
+    "Display": "E.Mitchell",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "SF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jordan Mason",
+    "Display": "J.Mason",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "SF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Matt Breida",
+    "Display": "M.Breida",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "NYG"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Patrick Taylor jr.",
+    "Display": "P.Taylor",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "GB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brock Purdy",
+    "Display": "B.Purdy",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "SF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Joshua Dobbs",
+    "Display": "J.Dobbs",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "ARI",
+        "MIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brandon Allen",
+    "Display": "B.Allen",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "SF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tanner Mordecai",
+    "Display": "T.Mordecai",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "SF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "George Kittle",
+    "Display": "G.Kittle",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "SF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Eric Saubert",
+    "Display": "E.Saubert",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "HOU"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brayden Willis",
+    "Display": "B.Willis",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Cameron Latu",
+    "Display": "C.Latu",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jake Tonges",
+    "Display": "J.Tonges",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "SF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Deebo Samuel",
+    "Display": "D.Samuel",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "SF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brandon Aiyuk",
+    "Display": "B.Aiyuk",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "SF",
+    "Teams_List": [
+        "SF"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ricky Pearsall",
+    "Display": "R.Pearsall",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "SF",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Rachaad White",
+    "Display": "R.White",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Bucky Irving",
+    "Display": "B.Irving",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TB",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chase Edmonds",
+    "Display": "C.Edmonds",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Sean Tucker",
+    "Display": "S.Tucker",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "D.j. Williams",
+    "Display": "D.Williams",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mike Evans",
+    "Display": "M.Evans",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chris Godwin",
+    "Display": "C.Godwin",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jalen McMilllan",
+    "Display": "J.McMilllan",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "TB",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Baker Mayfield",
+    "Display": "B.Mayfield",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Kyle Trask",
+    "Display": "K.Trask",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "John Wolford",
+    "Display": "J.Wolford",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "TB",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Cade Otton",
+    "Display": "C.Otton",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Payne Durham",
+    "Display": "P.Durham",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ko Kieft",
+    "Display": "K.Kieft",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Devin Culp",
+    "Display": "D.Culp",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TB",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "David Wells",
+    "Display": "D.Wells",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TB",
+    "Teams_List": [
+        "TB"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tony Pollard",
+    "Display": "T.Pollard",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "DAL"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyjae Spears",
+    "Display": "T.Spears",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "TEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Hassan Haskins",
+    "Display": "H.Haskins",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Julius Chestnut",
+    "Display": "J.Chestnut",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jabari Small",
+    "Display": "J.Small",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "TEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Will Levis",
+    "Display": "W.Levis",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "TEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Mason Rudolph",
+    "Display": "M.Rudolph",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "PIT"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Malik Willis",
+    "Display": "M.Willis",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "TEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chigoziem Okonkwo",
+    "Display": "C.Okonkwo",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "TEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Josh Whyle",
+    "Display": "J.Whyle",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "TEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Nick Vannett",
+    "Display": "N.Vannett",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Thomas Odukoya",
+    "Display": "T.Odukoya",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "David Martin-robinson",
+    "Display": "D.Martin-robinson",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "TEN",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "DeAndre Hopkins",
+    "Display": "D.Hopkins",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "TEN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Calvin Ridley",
+    "Display": "C.Ridley",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "JAX"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Tyler Boyd",
+    "Display": "T.Boyd",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "TEN",
+    "Teams_List": [
+        "CIN"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Terry McLaurin",
+    "Display": "T.McLaurin",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jahan Dotson",
+    "Display": "J.Dotson",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Luke McCaffrey",
+    "Display": "L.McCaffrey",
+    "NFLid": null,
+    "POS": "WR",
+    "Current_Team": "WAS",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Brian Robinson jr.",
+    "Display": "B.Robinson",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "ATL",
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Austin Ekeler",
+    "Display": "A.Ekeler",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "LAC"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Chris Rodriguez jr.",
+    "Display": "C.Rodriguez",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jeremy Mcnichols",
+    "Display": "J.Mcnichols",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "WAS",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Michael Wiley",
+    "Display": "M.Wiley",
+    "NFLid": null,
+    "POS": "RB",
+    "Current_Team": "WAS",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jayden Daniels",
+    "Display": "J.Daniels",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "WAS",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Marcus Mariota",
+    "Display": "M.Mariota",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "PHI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Jeff Driskel",
+    "Display": "J.Driskel",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "CLE"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Sam Hartman",
+    "Display": "S.Hartman",
+    "NFLid": null,
+    "POS": "QB",
+    "Current_Team": "WAS",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Zach Ertz",
+    "Display": "Z.Ertz",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "ARI"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "John Bates",
+    "Display": "J.Bates",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Ben Sinnott",
+    "Display": "B.Sinnott",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "WAS",
+    "Teams_List": [],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Cole Turner",
+    "Display": "C.Turner",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "WAS",
+    "Teams_List": [
+        "WAS"
+    ],
+    "Previous_Games": []
+},
+{
+    "Full Name": "Colson Yankoff",
+    "Display": "C.Yankoff",
+    "NFLid": null,
+    "POS": "TE",
+    "Current_Team": "WAS",
+    "Teams_List": [],
+    "Previous_Games": []
+}]
